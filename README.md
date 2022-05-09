@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Łukasz Matusik
 - 👀 I’m interested in technologies, playing computer games
-- 🌱 I’m currently learning Java programming
+- 🌱 I’m currently learning Java/C# programming
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... --> 
 
